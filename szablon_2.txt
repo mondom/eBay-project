@@ -1,0 +1,262 @@
+<font rwr="1" style="font-family:Arial" size="4"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700,900&amp;display=swap" rel="stylesheet">
+<style>
+h1 {
+font-weight: 400;
+font-size: 3em;
+color: #e21f26;
+font-family:Tahoma
+}
+h2 {
+font-weight: 400;
+font-size: 1.8em;
+text
+color: #e21f26;
+}
+h3 {
+font-weight: 400;
+font-size: 1.2em;
+text-align: left;
+color: #e21f26;
+font-weight: bold;
+}
+p {
+font-size: 1 em;
+}
+h4 {
+font-weight: 700;
+font-size: 1.3em;
+color: #06a4cd;
+}
+#nav {
+font-size: 1.2em;
+color: black;
+font-family: lato;
+padding-right: 5%;
+padding-left: 5%;
+font-weight: 700;
+}
+a {
+color: black;}
+a:hover {
+text-decoration: underline;
+color: #e21f26;
+}
+.navbar-nav {
+padding: 0px;
+margin: 0px;
+}
+#top{
+width: 100%;
+margin: 0%;
+padding: 0%;
+}
+#top img{
+width: 100%;
+margin: 0%;
+padding: 0%;
+}
+#box {
+vertical-align: middle;
+padding-top: 2%;
+padding-bottom: 2%;
+padding-left: 5%;
+padding-right: 5%;
+}
+#box2 {
+vertical-align: middle;
+padding-top: 2%;
+padding-bottom: 2%;
+padding-left: 5%;
+padding-right: 5%;
+background-color: #f67c10;
+color: white;
+}
+.navbar {
+margin: 0px;
+border-radius: 0;
+background-color: white;
+}
+#footer {
+margin-top: 2%;
+background-color: black;
+padding: 1%;
+color: white;
+}
+.nav navbar-nav {
+}
+hr {
+border-style: solid;
+border-color: #06a4cd;
+height: 10px;
+}
+tr {
+border-bottom-style: solid 2px grey;
+}
+#box ul {
+text-align: left;
+list-style: none;
+}
+#box ul li{line-height: 1.9em;}
+#box ul li::before {
+content: "\2022";
+color: #f67c10;
+font-size: 1 em;
+}
+</style>
+<!-- MENU - tutaj nic nie zmieniamy -->
+<nav class="navbar navbar-expand-sm" id="nav">
+<div class="container-fluid">
+<div class="navbar-header">
+<img class="img responsive" src="https://repository.ecomart.pl/decodesign/logo.jpg" style="margin-top: 10%; margin-bottom: 1%;" width="80%;"> </div>
+<ul class="navbar-nav">
+&nbsp;&nbsp;&nbsp; <li class="nav-item"> <a class="nav-link" href="https://www.ebay.pl/usrdecodesign_r" target="_blank">eBay Shop </a> </li>
+<li class="nav-item"> <a class="nav-link" href="https://contact.ebay.pl/ws/eBayISAPI.dll?FindAnswers&amp;requested=decodesign_r &amp;_trksid=p2545226.m2531.l4583&amp;rt=nc" target="_blank">Bewertungen </a> </li>
+<li class="nav-item"> <a class="nav-link" href="https://feedback.ebay.pl/ws/eBayISAPI.dll?ViewFeedback2&amp;userid=decodesign_r" target="_blank">Über uns</a>
+</li><li class="nav-item"> <a class="nav-link" href="https://feedback.ebay.pl/ws/eBayISAPI.dll?ViewFeedback2&amp;userid=decodesign_r" target="_blank">Kontakt</a>
+</li>
+</ul>
+</div></nav>
+<!-- STOP MENU -->
+<!-- TOP -->
+<div id="top" class="container-fluid ">
+<div class="col-sm-12 col-xs-12">
+<img class="img responsive" src="https://repository.ecomart.pl/decodesign/top2.jpg" width="100%;"></div>
+</div>
+<!-- STOP TOP -->
+<!-- BOX 1 -->
+</font><div class="container-fluid" style="margin-top: 5%;"><font rwr="1" style="font-family:Arial" size="4">
+</font><div class="row "><font rwr="1" style="font-family:Arial" size="4">
+</font><div class="col-sm-12 col-xs-12" style="padding-left: 5%;text-align: center;"><font rwr="1" style="font-family:Arial" size="4">
+<!-- Tu podmień tytuł aukcji. Ważne, aby nie kasować znaczników w nawiasach <> jak np h1 h2 -->
+&nbsp;
+<h1>Fensterrollo Tag und Nacht DecoDesign ® </h1>
+</font></div></div></div><div class="container-fluid" style="margin-top: 5%;">
+<div class="row ">
+<div class="col-sm-12 col-xs-12" style="padding-left: 5%;">
+<img src="https://repository.ecomart.pl/decodesign/foto11.jpg" class="img-responsive" style="margin-bottom: 5%; width: 95%;"> </div>
+<div id="box" class="row">
+<div class="col-sm-6 col-xs-12" style="padding-left: 5%;"><b>Papiermaß:&nbsp;</b>131 g/m²<b><br><br>Verdunklungsgrad: </b>einstellbare Lichtzufuhr (je dunkler die Farbe des Stoffes, desto größer der Verdunklungseffekt)<br><b><br>Gewebetyp: 100 % Polyester; </b>abwechselnd Gewebestreifen und großmaschiges Netz</div>
+<div class="col-sm-6 col-xs-12" style=" padding-left: 5%;">
+<b>Gewebestreifen: Höhe 7,5 cm<br><br>Großmaschiges Netz: Höhe 5,2 cm<br><br>Montage auf Spezialhaken: kein Bohren erforderlich</b><br>
+</div></div></div>
+<!-- STOP BOX1 -->
+<hr style="border-top: solid 5px red;">
+<!-- BOX 2 -->
+<div id="box" class="container-fluid">
+<div class="row">
+<div id="box" class="col-sm-12 col-xs-12 text-center" style="padding-top: 5%; padding-bottom: 5%;">
+<h1>
+Varianten
+</h1>&nbsp;<br>
+<h3> 1. Wählen Sie die Materialfarbe</h3>
+</div></div>
+<div id="box" class="row">
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/1_Zebra_II_mleczny.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font size="5"><b><font face="Trebuchet MS">Milch</font></b></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/1_Zebra_II_biały.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Weiß</font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/2_Zebra_II_wanilia.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Vanille</font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/3_Zebra_II_ecru.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Ecru</font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/4_Zebra_II_beż.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Beige<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/5_Zebra_II_j.brąz.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Hellbraun<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/6_Zebra_II_orzech.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Walnuss<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/7_Zebra_II_c.brąz.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Dunkelbraun<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/8_Zebra_II_len.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Leinen<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/9_Zebra_II_j.szary.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Hellgrau<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/10_Zebra_II_szary.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Grau</font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/11_Zebra_II_pomarańcz.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Orange</font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/12_Zebra_II_cegła.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Ziegelstein</font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/13_Zebra_II_fiolet.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Lila<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/14_Zebra_II_śliwka.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Pflaume<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/15_Zebra_II_granat.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Marineblau<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/16_Zebra_II_limonka.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Limone<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/17_Zebra_II_czarny.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Schwarz<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/18_Zebra_II_miodowy.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Honig<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/19_Zebra_II_platyna.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Platin<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-6 text-center" style=" padding-bottom: 2%;">
+<img src="https://repository.ecomart.pl/decodesign/zebra_kolory/20_Zebra_II_turkus.jpg" class="img-responsive" style="margin-bottom: 5%; width: 90%;"><br><p><font style="font-family:Arial" size="4"><font size="5"><b><font face="Trebuchet MS">Türkis<br></font></b></font></font></p></div>
+<div class="col-sm-6 col-xs-12 text-center" style=" padding-bottom: 2%;">
+<br><p><br><br>Die Stofffarben können je nach Gerätetyp, auf dem die Bilder angezeigt werden, variieren. <br><br><br>Wir empfehlen daher den Kauf von Materialproben, die in einer separaten Auktion erhältlich sind.</p></div>
+</div>
+</div></div>
+<!-- STOP BOX2 -->
+<hr style="border-top: solid 5px red;">
+<!-- BOX 3 -->
+<div id="box" class="container-fluid"><font rwr="1" style="font-family:Arial" size="4">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<h1 style="text-align: center;">Im Lieferumfang enthalten:</h1><br><br> </div>
+<div class="col-sm-5 col-xs-12"><br><br><br><br><br><br>
+<ul>
+<li>&nbsp;Rollo zusammen mit einem Mechanismus zur Selbstmontage</li><li>&nbsp;ausführliche Montageanleitung</li><li>&nbsp;Montagehaken</li><li>&nbsp;Kettenspanner</li><li>&nbsp;Gewebebandspanner&nbsp; <br></li><li>&nbsp;weiteres Montagezubehör</li></ul>
+<p>Damit die Jalousien unversehrt bei Ihnen ankommen, schützen wir jede einzelne und legen die bestellte Ware in einen Karton.</p></div>
+<div class="col-sm-7 col-xs-12"><img src="https://repository.ecomart.pl/decodesign/instrukcja.jpg" class="img-responsive" style="margin-bottom: 5%; width: 100%;"></div></div></font></div><font rwr="1" style="font-family:Arial" size="4">
+<hr style="border-top: solid 5px red;">
+<!-- STOP: BOX 3 -->
+<!-- BOX 4 -->
+</font><div id="box" class="container-fluid"><font rwr="1" style="font-family:Arial" size="4">
+</font><div class="row"><font rwr="1" style="font-family:Arial" size="4">
+<div class="col-sm-12 col-xs-12">
+<h1 style="text-align: center;"> Messung </h1><br><br> </div>
+</font><div class="col-sm-12 col-xs-12"><div align="center"><font rwr="1" style="font-family:Arial" size="4">
+<b> Fensterladenbreite (A)</b></font><br><font rwr="1" style="font-family:Arial" size="4">
+<p>
+Bitte messen Sie die Breite des Glases (B). Addieren Sie 2 bis 6 cm zu der erhaltenen Breite. Denken Sie daran, dass das Rollo etwas breiter sein sollte als die Fensterscheibe, aber es darf den Griff nicht verdecken. Der empfohlene Mindestabstand des Gewebes zum Griff beträgt 0,5 cm. </p></font><br><font rwr="1" style="font-family:Arial" size="4"><p><b>Rollo-Höhe (C) </b>
+</p></font><br><font rwr="1" style="font-family:Arial" size="4"><p>
+In dieser Auktion sind die Jalousien 220 cm lang.<img src="https://repository.ecomart.pl/decodesign/miara2.jpg" class="img-responsive" style="margin-bottom: 5%; width: 100%;">
+</p></font></div></div></div>
+</div>
+<hr style="border-top: solid 5px red;">
+<!-- STOP: BOX 4 -->
+<!-- BOX 5 -->
+<div id="box" class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<h1 align="left">Mechanismus:</h1><br><br> </div>
+<div class="col-sm-12 col-xs-12">- MultiStop-Funktion hält das Rollo in Position, auch wenn es nicht vollständig ausgefahren ist<br>- Kettenspanner verhindert ein Verwickeln der Kette und verbessert den Bedienkomfort<br>- Die seitliche Fadenspannung hält das Rollo auch bei geöffnetem Fenster dicht am Fenster und sorgt für ein ideales Aufwickeln des Stoffes auf das Rollrohr<br>- Universalmechanismus ermöglicht die Montage auf der rechten oder linken Seite der Jalousie<b><br><br>Mechanismus und Beschwerung in weiß.</b></div>
+<div class="col-sm-12 col-xs-12">
+<br>
+<p align="center">
+<img src="https://repository.ecomart.pl/decodesign/mocowanie33.jpg" class="img-responsive" style="margin-bottom: 5%; width: 100%;"><img src="https://repository.ecomart.pl/decodesign/mocowanie1.jpg" class="img-responsive" style="margin-bottom: 5%; width: 100%;"> </p></div><div class="col-sm-6 col-xs-12"><img src="https://repository.ecomart.pl/decodesign/mocowanie44.jpg" class="img-responsive" style=" width: 95%;"> </div><div class="col-sm-6 col-xs-12"><img src="https://repository.ecomart.pl/decodesign/mocowanie22.jpg" class="img-responsive" style=" width:95%;"></div><p></p></div></div>
+<hr style="border-top: solid 5px red;">
+<!-- STOP: BOX 5 -->
+<!-- BOX 7 -->
+<div id="box" class="container-fluid">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+<h1 style="text-align: center;">Zusätzliches Zubehör</h1><br><br>
+</div></div>
+<div class="row"><font rwr="1" style="font-family:Arial" size="4">
+</font><div class="col-sm-12 col-xs-12"><font rwr="1" style="font-family:Arial" size="4"><br><br><b>Der Bestellung fügen wir kostenlos Zubehör bei, das für die Montage des Rollos an einem belüfteten oder nicht öffnenden Fenster erforderlich ist.<br></b><br></font><font rwr="1" style="font-family:Arial" size="4"></font><font rwr="1" style="font-family:Arial" size="4"></font><br><br><br></div>
+<div class="col-sm-12 col-xs-12"><br></div><div class="col-sm-12 col-xs-12" align="center"><img src="https://repository.ecomart.pl/decodesign/1.jpg" class="img-responsive" style="margin-bottom: 5%; width: 95%;"><b> - Verlängerte Haken - Jalousie um 3,7 cm absenken (Fenster mit Lüfter)</b>
+</div>
+<div class="col-sm-12 col-xs-12"><div align="center"><img src="https://repository.ecomart.pl/decodesign/2.jpg" class="img-responsive" style="margin-bottom: 5%; width: 95%;"><b> - Montageplatten - mit doppelseitigem Klebeband am Fensterrahmen befestigt (nicht öffnendes Fenster)</b></div>
+<b><p></p></b></div></div><b>
+</b><div class="col-sm-12 col-xs-12" align="center"><b><img src="https://repository.ecomart.pl/decodesign/akcesoria11.jpg" class="img-responsive" style="margin-bottom: 5%; width: 75%;"> <br></b><b>- Ein Wischtuch zum Entfetten des Fensterrahmens vor dem Einbau.</b></div>
+<!-- STOP: BOX 7 -->
+<!--FOOTER-->
+<div id="box" class="container-fluid ">
+<div class="col-sm-12" align="center"> <img class="img responsive" src="https://repository.ecomart.pl/decodesign/logo.jpg" width="40%; style=">
+</div>
+</div></div>

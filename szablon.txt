@@ -1,0 +1,160 @@
+<title>Yumisu</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700,900&display=swap" rel="stylesheet">
+<style>
+body {background-color: #17161b;
+color: white;}
+h1 {
+font-weight: 900;
+font-size: 4em;
+color: #cf00cb;
+font-family: Lato;
+}
+p {
+font-size: 1em;
+}
+ul li {
+font-size: 1em;
+}
+#nav {
+font-size: 1em;
+color: white;
+font-family: lato;
+padding-right: 5%;
+padding-left: 5%;
+font-weight: 700;
+}
+a {
+color: #6e6e6e;
+text-transform: uppercase;
+}
+a:hover {
+text-transform: uppercase;
+text-decoration: underline;
+color: #cf00cb;
+}
+.navbar-nav {
+padding: 0px;
+margin: 0px;
+}
+#box {
+vertical-align: middle;
+padding-top: 2%;
+padding-bottom: 2%;
+padding-left: 5%;
+padding-right: 5%;
+text-align: center;;
+}
+.navbar {
+margin-bottom: 0;
+border-radius: 0;
+background-color: white;
+}
+#footer {
+margin-top: 6%;
+background-color: #17161b;
+}
+.nav navbar-nav {
+margin-top: 5%;
+}
+.btn btn-danger {
+width: 100%;
+}
+hr {
+border-style: solid;
+border-color: #cf00cb;
+height: 10px;
+}
+</style>
+<!-- MENU - tutaj nic nie zmieniamy -->
+
+<div style="text-align: center; padding: 5px; color: white; background-color: #cf00cb;"><font face="Georgia">WELCOME TO OUR AUCTION</font></div>
+<nav class="navbar navbar-expand-sm " id="nav" style="background-color: #17161b;"><div class="container-fluid" >
+<div class="navbar-header"> <img class="img responsive" src="https://yumisu.pl/wp-content/uploads/2019/11/yumisu-logo-small-r.png" width="100%;"> </div>
+<ul class="navbar-nav">
+<li class="nav-item"> <a class="nav-link" href="https://www.ebay.pl/usr#" target="_blank">ABOU US </a> </li>
+<li class="nav-item"> <a class="nav-link" href="http://contact.ebay.pl/ws/eBayISAPI.dll?FindAnswers&requested=# &_trksid=p2545226.m2531.l4583&rt=nc" target="_blank">CONTACT</a> </li>
+<li class="nav-item"> <a class="nav-link" href="https://feedback.ebay.pl/ws/eBayISAPI.dll?ViewFeedback2&userid=#" target="_blank">HOME</a> </li>
+</ul>
+</div></nav>
+<!-- STOP MENU -->
+<!-- TOP - tutaj nic nie zmieniamy -->
+<div id="wrapper" class="container-fluid "> <div class="col-sm-12 col-xs-12" style="background-color: #17161b;"><img class="img-responsive" src="https://repository.ecomart.pl/yumisu/top.jpg" width="100%; margin: 0px; padding; 0px;"> </div></div>
+<!-- STOP TOP -->
+
+
+<!-- BOX 1 -->
+<div class="container-fluid" style="padding-left: 5%; padding-right:5%;">
+ <div class="row ">
+<div class="col-sm-12 col-xs-12" style="padding-top: 3%; height: 100%; text-align: center;"> 
+
+
+
+<!-- Tu podmień tytuł aukcji. Ważne, aby nie kasować znaczników w nawiasach <> jak np h1 h2 -->
+
+<h2>Computerstühle </h2><br><h1>YUMISU 2049 </h1><br>
+
+<p>
+
+<b>Einfache Eleganz</b><br><br>
+
+Wir lassen den Inhalt der Beutebox für Effizienz und unerfüllte Erwartungen unerfüllt. Auffälligkeit ist definitiv keine Stärke dieses Modells, aber wir müssen zugeben, dass es nie als Option in Betracht gezogen wurde. Futurismus wird hier mit Einfachheit und universellem und zeitlosem Schwarz kombiniert. Klassik und Professionalität? Es sieht so aus, als hätten wir uns perfekt verstanden!<br><br>
+
+<b>Susano oder Flexibilität
+</b>
+
+Keine Sorge, wir sprechen definitiv nicht über die Flexibilität des Materials, sondern über die vielen möglichen Richtungen der Modifikation und Einstellung der Armlehnen selbst. Immerhin ist Susano der Name des japanischen Windes und damit ein einfacher Weg in alle Teile der Welt. Dann passen Sie sie an Ihre Bedürfnisse und Anerkennung an!
+
+<br><br>
+
+<b>Susano, du kannst es machen wie du willst</b><br><br>
+
+Unabhängig von Ihren Vorlieben sind wir zu 100% sicher, dass die Armlehnen Ihnen den richtigen RÜCKEN und Komfort bieten. Sie können die Wahrhaftigkeit dieser Worte auf die harte Tour (oder den Ellbogen!) Herausfinden, aber im Moment müssen Sie mit den Aufnahmen auf der rechten Seite und der Idee zufrieden sein, dass Sie sie wirklich nach Ihren Wünschen anpassen können!
+
+<br><br>
+
+<b>Kona, was fit bedeutet</b><br><br>
+
+Wir können leicht Stunden damit verbringen, über die Vielzahl von Optionen zum Einstellen der Armlehnen zu sprechen, aber sie halten uns von den ebenso reichen Möglichkeiten des Kona-Kissens ab.
+Hier können Sie sich auch auf eine vollständige Anpassung an Ihre Anforderungen verlassen, für die sich Ihr Nacken sicherlich bedanken wird, zu der das Kissen perfekt passt. <br> <br>
+br> <br>
+All dies dank der einzigartigen Schaumfüllung, die sich an die Form erinnert (Memory-Schaum). Wenn dies nicht genug wäre, fügen Sie hinzu, dass das Ganze mit einem Velours-Finish überzogen ist und das Ganze mit Riegeln befestigt ist. Solide Verarbeitung ergibt sich aus den obigen Sätzen, aber ja - für eine 100% ige Bestätigung geben wir zu, dass die Liebe zum Detail dieselbe bleibt wie bei anderen Elementen des Stuhls
+
+<br><br>
+ <img class="img responsive" src="https://yumisu.pl/wp-content/uploads/2019/12/2049-b-yumisu-11-840x1313.jpg" width="33%">
+ <img class="img responsive" src="https://yumisu.pl/wp-content/uploads/2019/12/2049-b-yumisu-1a-840x1313.jpg" width="33%">
+ <img class="img responsive" src="https://yumisu.pl/wp-content/uploads/2019/12/2049-b-yumisu-3-840x1313.jpg" width="33%">
+
+<b>Ein solides Fundament</b><br><br>
+
+Nachweis der Liebe zum Detail? Schauen Sie sich die Struktur des Rahmens aus unlegiertem Stahl genauer an, und das Ganze ist mit Kaltschaumguss gefüllt. Zusätzlich ist die Basis mit Aluminium verstärkt. Im Gegensatz zu Ihnen wird er definitiv Überstunden ertragen, ohne sich zu beschweren!<br><br>
+
+<b>Immer mit der Ruhe</b><br><br>
+
+Wenn sich der Staub für einen Moment gelegt hat und die wichtigsten E-Mails im Ordner "Gesendet" landen, können Sie sich sicher ein wenig entspannen. All dies dank des Ergomultiblock-Mechanismus. Klappen Sie die Rückenlehne des Stuhls nach Ihren Wünschen und verriegeln Sie die für Sie bequemste Position. Zögern Sie auch nicht, den Widerstand anzupassen, den Sie auf Ihren Schwung legen. Oben? Nieder? Hier sind Sie ja!
+
+<br><br>
+
+<b>Maßgeschneiderter PRO</b><br><br>
+Die Qualität der Yumisu-Polster unterscheidet sich kaum von den anderen Elementen des Stuhls. Das Leder und die verwendeten Materialien halten selbst dem intensivsten Designzyklus stand, einschließlich wiederholter Kaffeetrips. All dies dank hoher Abriebfestigkeit. Versuch es!<br><br><br>
+
+<b>Ninja Diskretion</b><br><br>
+
+Duże gumowane koła (60mm) dają solidne oparcie na podłożu, a także łatwość w prowadzeniu, gdy będzie trzeba błyskawicznie wejść w kooperację z oddaloną drukarką.
+Wszystko to w trybie bezszelestnym i skrytym – tak, aby zbędnym hałasem nie stracić reputacji w biurze.<br><br>
+
+<b>Der Titan der Arbeit</b><br><br>
+
+Dem großartigen Design folgt auch die praktische Anwendung im Kampf. Der "lebende" Beweis ist der hier verwendete Aktuator. Vielleicht möchten Sie es in Zusammenarbeit mit Buchbindern testen, auf jeden Fall können wir Ihnen stolz sagen, dass es das "Kaliber" von 180 kg tragen wird<br><br>
+
+<b>Frist oder Chillout? Ich werde mich anpassen!</b><br><br>
+
+Ohne Bewegungseinschränkungen und auch ohne starre Struktur. Unabhängig davon, ob Sie sich mitten in einem Design-Zyklon befinden oder Ihre Augen leicht geschlossen lassen können - passen Sie die voll einstellbare Rückenlehne an Ihre aktuellen Bedürfnisse an. Ergonomie und Ihr Komfort stehen definitiv im Vordergrund.<br><br>
+
+</div> </div></div>
+
+<!--FOOTER - tutaj nic nie zmieniamy-->
+<div style="text-align: center; padding: 5px; color: white; background-color: #cf00cb;"><font face="Georgia"> <img class="img responsive" src="https://repository.ecomart.pl/yumisu/logo2.png" width="10%;"></font></div>
+<nav class="navbar navbar-expand-sm " id="nav"><div class="container-fluid">
+<div> </div>
+</div>

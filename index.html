@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Image Example</title>
+    <script src="https://kit.fontawesome.com/f234464579.js" crossorigin="anonymous"></script>
+    <style>
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html {
+            font-size: 62.5%;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            width: 100%;
+            font-size: 1.6rem;
+            background-color: #FAFBFD;
+            color: #FAFBFD;
+        }
+
+        .wrapper {
+
+            max-width: 1200px;
+            margin: 2rem;
+            padding: 2rem 0;
+            background-color: #58595B;
+
+            .img-container {
+                display: flex;
+                border-top: 5px solid #FAFBFD;
+                border-bottom: 5px solid #FAFBFD;
+                margin-top: 1rem;
+
+                .left-container {
+                    width: 50%;
+
+                    border-right: 2.5px solid #FAFBFD;
+                }
+
+                .left-top-photo,
+                .logo {
+                    width: 100%;
+                }
+
+                .logo {
+                    border-top: 5px solid #FAFBFD;
+
+                }
+
+                .right-top-photo {
+                    width: 50%;
+                    border-left: 2.5px solid #FAFBFD;
+                }
+            }
+
+            .nav-container {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                .header-box {
+                    width: 100%;
+                    padding: 1.5rem;
+                    border-bottom: 5px solid #FAFBFD;
+                    line-height: 4rem;
+
+                    h1 {
+                        font-size: 3rem;
+                        text-align: center;
+
+                    }
+
+                    h2 {
+                        font-size: 2rem;
+                        text-align: center;
+                    }
+                }
+
+                .list-box {
+                    width: 100%;
+                    padding: 1.5rem;
+                    text-align: center;
+                    line-height: 2.5rem;
+                    border-bottom: 5px solid #FAFBFD;
+
+                    ul {
+                        list-style-type: none;
+                    }
+                }
+
+
+
+            }
+
+            .filler {
+                width: 100%;
+                height: 3rem;
+                background-color: #C01F25;
+                border-bottom: 5px solid white;
+            }
+
+            .main {
+                .bookmark {
+                    display: inline-block;
+                    margin-top: 4rem;
+                    padding: 1rem;
+                    font-weight: bold;
+                    color: #fff;
+                    background-color: #C01F25;
+                }
+
+                .icon-card-box {
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 1rem;
+                    justify-content: center;
+                    margin: 4rem 1rem;
+
+                    .icon-card {
+                        flex: 1 1 calc(14% - 1rem);
+                        max-width: calc(14% - 1rem);
+                        min-width: 140px;
+                        margin: 0 1.5rem;
+                        text-align: center;
+
+                        .icon {
+                            display: block;
+                            width: 50%;
+                            max-width: 150px;
+                            margin: 2rem auto;
+                        }
+
+                        .icon-card-header {
+                            margin-bottom: 2rem;
+                        }
+                    }
+                }
+
+                .linear-fences-box {
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column;
+                    gap: 2rem;
+                    padding: 3rem;
+
+                    .linear-fences-text {
+                        text-align: center;
+
+                    }
+
+                    .linear-fences-img {
+                        width: 100%;
+                    }
+                }
+
+                .gallery-box {
+
+                    display: flex;
+                    flex-wrap: wrap;
+                    max-width: 800px;
+                    width: 100%;
+                    gap: 2rem;
+                    justify-content: center;
+                    padding: 4rem;
+                    margin: 3rem auto;
+                }
+
+                .photo-box {
+                    position: relative;
+                    flex: 1 1 calc(33.33% - 1rem);
+                    max-width: calc(33.33% - 1rem);
+                    min-width: 300px;
+                    text-align: center;
+                }
+
+                .photo-box img {
+                    display: block;
+                    width: 100%;
+                    height: auto;
+                }
+
+                .caption {
+                    position: absolute;
+                    margin-top: 1rem;
+                    padding: 1rem;
+                    bottom: 3rem;
+                    width: 50%;
+                    background-color: #C01F25;
+                    z-index: 10;
+
+                }
+
+                .main-text-box {
+                    padding: 2rem;
+                    border-bottom: 5px solid #FAFBFD;
+
+                    p {
+                        font-weight: bold;
+                        margin-bottom: 2rem;
+                    }
+                }
+
+                .contact-box {
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column;
+                    gap: 2rem;
+                    padding: 2rem;
+                    border-bottom: 5px solid #FAFBFD;
+
+                    .contact {
+                        a {
+                            color: #FAFBFD;
+                            text-decoration: none;
+                            margin-left: 1rem;
+                        }
+
+                    }
+
+                }
+            }
+        }
+
+
+        @media (min-width: 1220px) {
+            .wrapper {
+                margin: 2rem auto;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="img-container">
+            <div class="left-container">
+                <img class="left-top-photo" src="./img/4.jpg" alt="">
+                <img class="logo" src="./img/Logo_20-08-2021.jpg" alt="">
+            </div>
+            <img class="right-top-photo" src="./img/DSC_7977.jpg" alt="">
+        </div>
+        <div class="nav-container">
+            <div class="header-box">
+                <h1>Ogrodzenia aluminiowe</h1>
+                <h2>Trwałość i nowoczesny wygląd</h2>
+            </div>
+            <div class="list-box">
+                <ul>
+                    <li>Przęsła</li>
+                    <li>Furtki</li>
+                    <li>Bramy</li>
+                </ul>
+            </div>
+            <div class="list-box">
+                <ul>
+                    <li>Darmowa wycena</li>
+                    <li>Indywidualne wymiary</li>
+                    <li>Transport na terenie Niemiec</li>
+                </ul>
+            </div>
+        </div>
+        <div class="filler"></div>
+        <div class="main">
+            <div class="bookmark">OGRODZENIE LINIA</div>
+            <div class="icon-card-box">
+                <div class="icon-card">
+                    <img class="icon" src="./img/icon_biala_wysoka_trwalosc.svg" alt="">
+                    <h3 class="icon-card-header">Lorem ipsum</h3>
+                    <p class="icon-card-text">>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio expedita
+                        rerum quos placeat, eum quia?</p>
+                </div>
+
+                <div class="icon-card">
+                    <img class="icon" src="./img/icon_biala_swiezy_design.svg" alt="">
+                    <h3 class="icon-card-header">Lorem ipsum</h3>
+                    <p class="icon-card-text">>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio expedita
+                        rerum quos placeat, eum quia?</p>
+                </div>
+                <div class="icon-card">
+                    <img class="icon" src="./img/icon_biala_lekkosc.svg" alt="">
+                    <h3 class="icon-card-header">Lorem ipsum</h3>
+                    <p class="icon-card-text">>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio expedita
+                        rerum quos placeat, eum quia?</p>
+                </div>
+                <div class="icon-card">
+                    <img class="icon" src="./img/icon_biala_ekierka.svg" alt="">
+                    <h3 class="icon-card-header">Lorem ipsum</h3>
+                    <p class="icon-card-text">>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio expedita
+                        rerum quos placeat, eum quia?</p>
+                </div>
+                <div class="icon-card">
+                    <img class="icon" src="./img/icon_biala_szeroka_gama_kolorystyczna.svg" alt="">
+                    <h3 class="icon-card-header">Lorem ipsum</h3>
+                    <p class="icon-card-text">>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio expedita
+                        rerum quos placeat, eum quia?</p>
+                </div>
+                <div class="icon-card">
+                    <img class="icon" src="./img/icon_biala_ochrona_prywatnosci.svg" alt="">
+                    <h3 class="icon-card-header">Lorem ipsum</h3>
+                    <p class="icon-card-text">>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio expedita
+                        rerum quos placeat, eum quia?</p>
+                </div>
+            </div>
+            <div class="linear-fences-box">
+                <div class="linear-fences-text">
+                    <p>lorem ipsum</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                </div>
+                <img class="linear-fences-img" src="./img/DSC_7977.jpg" alt="">
+            </div>
+            <div class="linear-fences-box">
+                <div class="linear-fences-text">
+                    <p>lorem ipsum</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                </div>
+                <img class="linear-fences-img" src="./img/DSC_7977.jpg" alt="">
+            </div>
+            <div class="linear-fences-box">
+                <div class="linear-fences-text">
+                    <p>lorem ipsum</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                </div>
+                <img class="linear-fences-img" src="./img/DSC_7977.jpg" alt="">
+            </div>
+            <div class="bookmark">POZOSTAŁE OFERTY</div>
+            <div class="gallery-box">
+                <div class="photo-box">
+                    <img src="./img/DSC_7977.jpg" alt="">
+                    <div class="caption">Lorem ipsum</div>
+                </div>
+                <div class="photo-box">
+                    <img src="./img/DSC_7977.jpg" alt="">
+                    <div class="caption">Lorem ipsum</div>
+                </div>
+                <div class="photo-box">
+                    <img src="./img/DSC_7977.jpg" alt="">
+                    <div class="caption">Lorem ipsum</div>
+                </div>
+                <div class="photo-box">
+                    <img src="./img/DSC_7977.jpg" alt="">
+                    <div class="caption">Lorem ipsum</div>
+                </div>
+                <div class="photo-box">
+                    <img src="./img/DSC_7977.jpg" alt="">
+                    <div class="caption">Lorem ipsum</div>
+                </div>
+                <div class="photo-box">
+                    <img src="./img/DSC_7977.jpg" alt="">
+                    <div class="caption">Lorem ipsum</div>
+                </div>
+                <div class="photo-box">
+                    <img src="./img/DSC_7977.jpg" alt="">
+                    <div class="caption">Lorem ipsum</div>
+                </div>
+                <div class="photo-box">
+                    <img src="./img/DSC_7977.jpg" alt="">
+                    <div class="caption">Lorem ipsum</div>
+                </div>
+                <div class="photo-box">
+                    <img src="./img/DSC_7977.jpg" alt="">
+                    <div class="caption">Lorem ipsum</div>
+                </div>
+                <div class="photo-box">
+                    <img src="./img/DSC_7977.jpg" alt="">
+                    <div class="caption">Lorem ipsum</div>
+                </div>
+                <div class="photo-box">
+                    <img src="./img/DSC_7977.jpg" alt="">
+                    <div class="caption">Lorem ipsum</div>
+                </div>
+            </div>
+            <div class="main-text-box">
+                <p class="main-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, facere.</p>
+                <p class="main-text">Lorem, ipsum dolor sit amet consectetur.</p>
+                <p class="main-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, facere.</p>
+                <p class="main-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p class="main-text">Lorem, ipsum dolor.</p>
+            </div>
+            <div class="contact-box">
+                <div class="website contact"><i class="fa-solid fa-globe"></i><a href="https://www.example.com"
+                        target="_blank">www.example.com</a>
+                </div>
+                <div class="mail contact"><i class="fa-solid fa-envelope"></i><a
+                        href="mailto:example@example.com">example@example.com</a>
+                </div>
+                <div class="phone contact"><i class="fa-solid fa-phone"></i><a href="tel:+48123456789">+48123456789</a>
+                </div>
+            </div>
+        </div>
+        <div class="filler"></div>
+    </div>
+
+</body>
+
+</html>
