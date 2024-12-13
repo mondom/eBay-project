@@ -42,13 +42,13 @@
 
                 .left-container {
                     width: 50%;
-
                     border-right: 2.5px solid #FAFBFD;
                 }
 
                 .left-top-photo,
                 .logo {
                     width: 100%;
+                    display: block;
                 }
 
                 .logo {
@@ -98,6 +98,7 @@
                         border-bottom: 5px solid #FAFBFD;
 
                         ul {
+
                             list-style-type: none;
                         }
                     }
@@ -264,9 +265,10 @@
                 }
 
                 .main {
-                    .gallery-box{
+                    .gallery-box {
                         padding: 3rem;
                     }
+
                     .photo-box {
                         position: relative;
                         width: 45%;
@@ -304,11 +306,121 @@
             }
         }
 
-        @media (min-width: 768px) {}
+        @media (min-width: 768px) {
+            .wrapper {
+                .nav-container {
+                    border-bottom: 5px solid #FAFBFD;
+                    flex-direction: row;
+                    align-items: stretch;
+
+                    .header-box {
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        border-bottom: none;
+                        border-right: 5px solid #FAFBFD;
+
+                        h1 {
+                            font-size: 3.5rem;
+                        }
+                    }
+
+                    .list-box-wrapper {
+                        display: flex;
+                        width: 100%;
+
+                        .list-box {
+                            display: flex;
+                            border: none;
+                            justify-content: center;
+
+                            ul {
+                                display: flex;
+                                flex-direction: column;
+                                justify-content: center;
+
+                            }
+
+                        }
+
+                        .list-box-left {
+                            width: 35%;
+                            border-right: 5px solid #FAFBFD;
+                        }
+
+                    }
+
+                }
+
+                .main {
+                    .linear-fences-box {
+                        width: 100%;
+                        justify-content: space-around;
+                        flex-direction: row;
+
+
+                        .linear-fences-text {
+                            text-align: center;
+                            width: 50%;
+                            padding: 1.5rem;
+
+                        }
+
+                        .linear-fences-img {
+                            width: 100%;
+                            max-width: 500px;
+                        }
+                    }
+
+                    .linear-fences-box-reverse {
+                        flex-direction: row-reverse;
+                    }
+
+                    .gallery-box {
+                        padding: 3rem;
+                    }
+
+                    .photo-box {
+                        width: 30%;
+                    }
+
+                    .caption {
+
+                        width: 55%;
+
+
+                    }
+
+                    .contact-box {
+
+                        flex-direction: row;
+                        justify-content: space-around;
+
+
+                    }
+
+                }
+            }
+        }
 
         @media (min-width: 1220px) {
             .wrapper {
                 margin: 2rem auto;
+
+                .nav-container {
+
+                    .header-box {
+
+
+                        h1 {
+                            font-size: 4.5rem;
+                        }
+
+                        h2 {
+                            font-size: 3rem;
+                        }
+                    }
+                }
             }
         }
     </style>
@@ -330,13 +442,13 @@
             </div>
             <div class="list-box-wrapper">
                 <div class="list-box list-box-left">
-                    <ul>
+                    <ul class="ul-left">
                         <li>Przęsła</li>
                         <li>Furtki</li>
                         <li>Bramy</li>
                     </ul>
                 </div>
-                <div class="list-box">
+                <div class="list-box list-box-right">
                     <ul>
                         <li>Darmowa wycena</li>
                         <li>Indywidualne wymiary</li>
@@ -394,7 +506,7 @@
                 </div>
                 <img class="linear-fences-img" src="./img/DSC_7977.jpg" alt="">
             </div>
-            <div class="linear-fences-box">
+            <div class="linear-fences-box linear-fences-box-reverse">
                 <div class="linear-fences-text">
                     <p>lorem ipsum</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
